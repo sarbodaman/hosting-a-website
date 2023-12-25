@@ -1,0 +1,44 @@
+*{
+   padding: 0;
+   margin: 0;
+   color: white;
+
+}
+
+#navbar{
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+
+}
+
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 27px;
+}
+#para1{
+    color: red;
+}
+
+.intoheading{ 
+text-align: center;
+}
+
+#heat{
+    color: aquamarine;
+}
+
+h1, h2, p {
+    text-decoration: underline;
+}
+
+/* This is how we write comment in css */
